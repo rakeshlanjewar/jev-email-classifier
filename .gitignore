@@ -1,0 +1,9 @@
+# secrets / tokens
+*.json
+!sample.google_client_secret.json.example
+# local data
+*.db
+*.csv
+*.log
+__pycache__/
+.env
